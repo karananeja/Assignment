@@ -173,10 +173,11 @@ button:hover {
 .s-tag {
     font-size: 30px;
     font-weight: bold;
+    margin: 0 auto;
 }
 
 .break {
-    padding-left: 250px;
+    margin: 0 auto;
     width: 65%;
 }
 
